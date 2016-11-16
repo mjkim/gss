@@ -1,4 +1,4 @@
-package main
+package gss
 
 /*
 #cgo CFLAGS: -Wno-deprecated-declarations
